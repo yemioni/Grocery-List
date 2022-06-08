@@ -3,3 +3,4 @@ Sugar
 Cereal
 Milk
 Corn
+Coffee
